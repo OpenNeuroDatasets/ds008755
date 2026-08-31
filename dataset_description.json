@@ -1,0 +1,17 @@
+{
+    "Name": "Mouse Cocaine Self-Administration Withdrawal DTI",
+    "BIDSVersion": "1.10.1",
+    "DatasetType": "raw",
+    "Authors": [
+        "Zachary Fernandez",
+        "Alice McQueney",
+        "Melinda Osowski",
+        "Xiang Liu",
+        "Yuen Gao",
+        "Andrew Bender",
+        "Norman Scheel",
+        "Erik Shapiro",
+        "Alfred J. Robison",
+        "Chunqi Qian"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "Manufacturer": "Bruker",
+    "MagneticFieldStrength": 7,
+    "Modality": "MR",
+    "EchoTime": 0.024110270183,
+    "RepetitionTime": 2.000000000000,
+    "MRAcquisitionType": "2D",
+    "InstitutionName": "Michigan State University",
+    "InstitutionalDepartmentName": "Department of Radiology",
+    "Species": "Mus musculus",
+    "PulseSequenceDetails": "Bruker:DtiEpi",
+    "Nucleus": "1H",
+    "SliceThickness": 0.5,
+    "NumberOfSlices": 32,
+    "NumberOfDiffusionDirections": 20,
+    "NumberOfB0Volumes": 5,
+    "DiffusionGradientDuration": 0.005000000000,
+    "DiffusionGradientSeparation": 0.011840181818,
+    "DiffusionMeasurementMode": "DW_Contrast",
+    "DiffusionGradientScheme": "MonopolarDw"
+}
