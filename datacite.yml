@@ -1,0 +1,99 @@
+data:
+  attributes:
+    types:
+      resourceTypeGeneral: Dataset
+    contributors:
+      - name: Zachary Fernandez
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 1
+      - name: Alice McQueney
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 2
+      - name: Melinda Osowski
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 3
+      - name: Xiang Liu
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 4
+      - name: Yuen Gao
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 5
+      - name: Andrew Bender
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 6
+      - name: Norman Scheel
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 7
+      - name: Erik Shapiro
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 8
+      - name: Alfred J. Robison
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 9
+      - name: Chunqi Qian
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 10
+    creators:
+      - name: Zachary Fernandez
+        nameType: Personal
+      - name: Alice McQueney
+        nameType: Personal
+      - name: Melinda Osowski
+        nameType: Personal
+      - name: Xiang Liu
+        nameType: Personal
+      - name: Yuen Gao
+        nameType: Personal
+      - name: Andrew Bender
+        nameType: Personal
+      - name: Norman Scheel
+        nameType: Personal
+      - name: Erik Shapiro
+        nameType: Personal
+      - name: Alfred J. Robison
+        nameType: Personal
+      - name: Chunqi Qian
+        nameType: Personal
+    descriptions:
+      - description: N/A
+        descriptionType: Abstract
