@@ -1,9 +1,0 @@
-{
-    "group": {
-        "Description": "Experimental treatment group",
-        "Levels": {
-            "cocaine": "Mice that underwent cocaine self-administration",
-            "saline": "Mice that underwent saline self-administration"
-        }
-    }
-}
