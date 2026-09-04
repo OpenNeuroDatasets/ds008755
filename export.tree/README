@@ -1,0 +1,13 @@
+# Mouse Cocaine Self-Administration Withdrawal DTI
+
+This dataset contains diffusion MRI data acquired from mice following cocaine or saline self-administration.
+
+The dataset includes four subjects:
+- Two cocaine self-administration animals
+- Two saline self-administration animals
+
+Only the withdrawal imaging time point is included in this dataset.
+
+Diffusion MRI was acquired on a 7 Tesla Bruker MRI system at Michigan State University.
+
+Files are organized according to the Brain Imaging Data Structure (BIDS).
